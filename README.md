@@ -1,4 +1,4 @@
-Push rejected? Accept the invite. !
+Push rejected? Accept the invite. ! !
 
 # P1 check repository
 
